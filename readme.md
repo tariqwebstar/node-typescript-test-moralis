@@ -1,9 +1,3 @@
-![Nodejs Doctrine 2023 Boilerplate](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
-
-# Ultimate Nodejs Boilerplate Code 2023
-
-This boilerplate is the latest version of Doctrine 2021 boilerplate code. If you are looking to start a Nodejs project with typescript, their are tons of things that need to be setup to run a successful project. Having 3 layer architecture in mind, this allows you to integrate libraries easily. I have also added Agenda for Type Di (DI) alongside Agendda for job scheduling. You can replace them with Bee, Bull or Bree as per your requirements.
-
 ## Getting Started
 
 To start using Node.js Doctrine 2023 boilerplate is very easy with these simple installation steps
@@ -22,7 +16,3 @@ To start using Node.js Doctrine 2023 boilerplate is very easy with these simple 
 ### Libraries
 
 - TypeScript
-
-## Contributors
-
-<img src="https://www.moeidsaleem.com/assets/images/moeidsaleem.jpeg" width="120" height="120" style="border-radius:300px" />
